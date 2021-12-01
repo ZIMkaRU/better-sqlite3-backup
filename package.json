@@ -1,0 +1,14 @@
+{
+  "name": "better-sqlite3-backup",
+  "version": "1.0.0",
+  "description": "Test better-sqlite3 backup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimir Voronkov <vsvoronkov@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.4.5"
+  }
+}
